@@ -1,0 +1,3 @@
+﻿veh_type,capacity,c_fixed,c_distance,c_time,speed_inter_stop,speed_linaul,service_time,route_setup_time,max_time
+van,50,100,0.5,40,15,20,0.1,0.5,10
+bike,15,25,0.1,30,7,10,0.1,0.3,10
